@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Text Input Control</title>
+   </head>
+	
+   <body bgcolor="#E6E6FA">
+      <form >
+         First name: <input type = "text" name = "first_name" />
+         Last name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+          name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+      </form>
+      <br>
+      <br>
+   <br>
+      <form >
+         First name: <input type = "text" name = "first_name" />
+         Last name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+          name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+      </form>
+      <br>
+      <br><br>
+      <form >
+         First name: <input type = "text" name = "first_name" />
+         Last name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+          name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+      </form>
+      <br>
+      <br><br>
+      <form >
+         First name: <input type = "text" name = "first_name" />
+         Last name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+          name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+      </form>
+      <br>
+      <br><br>
+
+      <form >
+         First name: <input type = "text" name = "first_name" />
+         Last name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+          name: <input type = "text" name = "last_name" />
+          name: <input type = "text" name = "first_name" />
+      </form>
+      <br>
+      <input type="submit" value="Submit">
+      <br>
+      <br><br>
+   </body>
+	
+</html>
